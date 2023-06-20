@@ -4,8 +4,6 @@
 <h3 align="center">Developers connecting human values with Blockchain from korea</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=youjun-iwon&label=Profile%20views&color=0e75b6&style=flat" alt="youjun-iwon" /> </p>
-
 - 🌱 I’m currently learning **typescript, react, web3, solidity, rust, go**
 
 - 📝 I regularly write articles on [https://brunch.co.kr/@iwonyoujun](https://brunch.co.kr/@iwonyoujun)
