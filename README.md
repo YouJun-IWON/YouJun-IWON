@@ -2,7 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm Reason Jun</h1>
 <h3 align="center">Developers connecting human values with Blockchain from korea</h3>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
 
 - 🌱 I’m currently learning **typescript, react, web3, solidity, rust, go**
 
