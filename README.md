@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Reason Jun</h1>
 <h3 align="center">Developers connecting human values with Blockchain from korea</h3>
 
-- 🌱 I’m currently learning **typescript, react, web3, solidity, rust, go**
+- 🌱 I’m currently learning **typescript, react, web3, solidity
 
 - 📝 I regularly write articles on [https://brunch.co.kr/@iwonyoujun](https://brunch.co.kr/@iwonyoujun)
 
