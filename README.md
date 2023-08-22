@@ -5,11 +5,12 @@
 
 - 🌱 I’m currently learning **typescript, react, web3, solidity
 
-- 📝 I regularly write articles on [https://brunch.co.kr/@iwonyoujun](https://brunch.co.kr/@iwonyoujun)
-
+- 😃 My Portfolio Site: [https://portfolio-site-phi-murex.vercel.app/](https://portfolio-site-phi-murex.vercel.app/)
+- 📄 I regularly write articles on [https://reasonjun.tistory.com/](https://reasonjun.tistory.com/)
+- 📝 I regularly write Book on [https://brunch.co.kr/@iwonyoujun](https://brunch.co.kr/@iwonyoujun)
 - 📫 How to reach me **tndhworl1998@gmail.com**
 
-- 📄 Know about my experiences [https://reasonjun.tistory.com/](https://reasonjun.tistory.com/)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
