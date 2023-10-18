@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Reason Jun</h1>
 <h3 align="center">Developers connecting human values with Blockchain from korea</h3>
 
-- 🌱 I’m currently learning **typescript, react, web3, solidity
+- 🌱 I’m currently learning **typescript, react, NextJS, web3, solidity
 
 - 😃 My Portfolio Site: [https://portfolio-site-phi-murex.vercel.app/](https://portfolio-site-phi-murex.vercel.app/)
 - 📄 I regularly write articles on [https://reasonjun.tistory.com/](https://reasonjun.tistory.com/)
