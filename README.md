@@ -1,9 +1,5 @@
-![MasterHead](https://images.squarespace-cdn.com/content/v1/5935d734e3df28babfeb4b68/1561568009603-83H993L929848Y1DWVD9/Thinkset_Blockchain.gif?format=1000w)
-
 <h1 align="center">Hi 👋, I'm Reason Jun</h1>
-<h3 align="center">Developers connecting human values with Blockchain from korea</h3>
-
-- 🌱 I’m currently learning **typescript, react, NextJS, web3, solidity
+<h3 align="center">Developers connecting human values with AI</h3>
 
 - 😃 My Portfolio Site: [https://portfolio-site-phi-murex.vercel.app/](https://portfolio-site-phi-murex.vercel.app/)
 - 📄 I regularly write articles on [https://reasonjun.tistory.com/](https://reasonjun.tistory.com/)
